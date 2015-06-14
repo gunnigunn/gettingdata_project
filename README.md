@@ -1,4 +1,4 @@
-# Final project for the course *Getting and Cleaning Data* on Coursera.
+# Final project for the course *Getting and Cleaning Data* on Coursera
 
 The analysis is performed by the script run_analysis.R and is done in several steps
 
