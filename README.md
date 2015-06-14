@@ -2,6 +2,7 @@
 Final project for the Getting and Cleaning Data on Coursera.
 
 The analysis is performed by the script run_analysis.R and is done in several steps
+
 1. The data is read from files (stored in a subdirectory ./data)
 2. Column names are added to both movement data and descriptive data (subject, activities).
 3. The relevant data columns are found by selecting all columns containing the words "mean", "Mean", "std" or "Std"
